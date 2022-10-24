@@ -1,0 +1,23 @@
+.profileCard {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 300px;
+  width: 350px;
+  margin-left: 29px;
+  border-radius: 25px;
+  padding: 20px;
+  color: black;
+}
+
+.profileJobsListView {
+  display: flex;
+  justify-content: end;
+  margin-left: 15px;
+  padding-top: 15px;
+  background-color: #000000;
+  color: white;
+}
+
+.bg1 {
+  background-color: wheat;
+}

@@ -1,0 +1,20 @@
+.itemDetailsCard {
+  height: 750px;
+  width: 900px;
+  background-color: #202020;
+  color: white;
+  border-radius: 25px;
+  padding-left: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+  margin-left: 29px;
+  margin-top: 25px;
+}
+
+.bgSimilar {
+  background-color: black;
+  background-size: cover;
+  height: 500vh;
+  border-radius: 25px;
+}
